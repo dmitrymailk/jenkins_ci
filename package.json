@@ -1,0 +1,20 @@
+{
+  "name": "jenkins_ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrymailk/jenkins_ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitrymailk/jenkins_ci/issues"
+  },
+  "homepage": "https://github.com/dmitrymailk/jenkins_ci#readme"
+}
